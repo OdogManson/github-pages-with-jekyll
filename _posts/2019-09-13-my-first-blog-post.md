@@ -1,5 +1,4 @@
-hi its my first blog on github
 ---
 title: "owens blogE"
-date: 2019-9-13
+date: 2019-09-13
 ---
